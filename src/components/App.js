@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <PlantPage plants={plants} setPlants={setPlants}/>
+      <PlantPage plants={plants} setPlants={setPlants} />
     </div>
   );
 }

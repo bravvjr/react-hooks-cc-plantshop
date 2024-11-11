@@ -65,6 +65,12 @@
       "image": "https://www.zeidlers.com/images/itemVariation/v4_DSC023342160-21040163839.jpg",
       "price": 43,
       "id": 11
+    },
+    {
+      "name": "Hummelstown",
+      "image": "https://assets.eflorist.com/assets/products/PZM_/TPL03-1A.jpg?impolicy=hero&impolicy=hero",
+      "price": 100,
+      "id": 12
     }
   ]
 }
