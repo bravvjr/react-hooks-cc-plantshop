@@ -21,23 +21,23 @@ VS Code
 
 ## Installation Instructions
 
-# Clone the repository using the following command:
+### Clone the repository using the following command:
 
 git clone https://github.com/bravvjr/react-hooks-cc-plantshop.git
 
-# Navigate to the project folder:
+### Navigate to the project folder:
 
 cd react-hooks-cc-plantshop
 
-# Install dependencies:
+### Install dependencies:
 
 npm install
 
-# Start the application:
+### Start the application:
 
 npm start
 
-# Live Link
+### Live Link
 
 Plantsy Live Demo ([https://plantsywk2codechallenge.netlify.app/])
 
